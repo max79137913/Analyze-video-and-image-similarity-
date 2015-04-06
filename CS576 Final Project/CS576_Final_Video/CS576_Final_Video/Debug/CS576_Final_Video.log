@@ -1,0 +1,34 @@
+﻿Build started 12/8/2014 4:18:10 AM.
+     1>Project "c:\Users\Ray\documents\visual studio 2010\Projects\CS576_Final_Video\CS576_Final_Video\CS576_Final_Video.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\CS576_Final_Video.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt VideoCluster.cpp
+         VideoCluster.cpp
+     1>c:\users\ray\documents\visual studio 2010\projects\cs576_final_video\cs576_final_video\video.h(45): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\ray\documents\visual studio 2010\projects\cs576_final_video\cs576_final_video\videocluster.cpp(56): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ray\documents\visual studio 2010\projects\cs576_final_video\cs576_final_video\videocluster.cpp(57): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ray\documents\visual studio 2010\projects\cs576_final_video\cs576_final_video\videocluster.cpp(85): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\ray\documents\visual studio 2010\projects\cs576_final_video\cs576_final_video\videocluster.cpp(131): warning C4018: '<' : signed/unsigned mismatch
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\ray\documents\visual studio 2010\Projects\CS576_Final_Video\Debug\CS576_Final_Video.exe" /INCREMENTAL /NOLOGO opencv_core249d.lib opencv_imgproc249d.lib opencv_highgui249d.lib opencv_ml249d.lib opencv_video249d.lib opencv_features2d249d.lib opencv_calib3d249d.lib opencv_objdetect249d.lib opencv_contrib249d.lib opencv_legacy249d.lib opencv_flann249d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\CS576_Final_Video.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\ray\documents\visual studio 2010\Projects\CS576_Final_Video\Debug\CS576_Final_Video.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\ray\documents\visual studio 2010\Projects\CS576_Final_Video\Debug\CS576_Final_Video.lib" /MACHINE:X86 Debug\CS576_Final_Video.exe.embed.manifest.res
+         Debug\CVUtil.obj
+         Debug\Video.obj
+         Debug\VideoCluster.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\CS576_Final_Video.exe.embed.manifest" /manifest Debug\CS576_Final_Video.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         CS576_Final_Video.vcxproj -> c:\users\ray\documents\visual studio 2010\Projects\CS576_Final_Video\Debug\CS576_Final_Video.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\CS576_Final_Video.unsuccessfulbuild".
+         Touching "Debug\CS576_Final_Video.lastbuildstate".
+     1>Done Building Project "c:\Users\Ray\documents\visual studio 2010\Projects\CS576_Final_Video\CS576_Final_Video\CS576_Final_Video.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.82

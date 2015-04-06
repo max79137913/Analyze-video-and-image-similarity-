@@ -1,0 +1,99 @@
+Class 0
+-->Sub Class 0: 300 299 147 
+
+Class 1
+-->Sub Class 0: 298 297 296 295 294 293 
+
+Class 2
+-->Sub Class 0: 292 291 290 289 288 287 285 284 283 282 278 277 276 286 
+
+Class 3
+-->Sub Class 0: 281 280 279 
+
+Class 4
+-->Sub Class 0: 275 274 273 272 271 270 269 268 267 265 196 195 194 193 192 191 190 189 188 187 186 185 184 183 182 181 180 179 178 112 109 
+
+Class 5
+-->Sub Class 0: 266 260 259 258 110 
+
+Class 6
+-->Sub Class 0: 264 263 262 261 257 256 255 254 253 252 
+
+Class 7
+-->Sub Class 0: 249 248 247 246 245 244 243 242 241 240 239 238 237 236 235 234 233 232 
+
+Class 8
+-->Sub Class 0: 231 230 229 228 227 226 225 164 161 160 156 154 153 152 151 
+
+Class 9
+-->Sub Class 0: 224 223 222 221 220 218 217 216 215 214 213 150 97 96 95 94 86 85 84 219 
+
+Class 10
+-->Sub Class 0: 212 211 210 209 208 207 206 205 204 203 202 201 200 199 198 197 
+
+Class 11
+-->Sub Class 0: 177 176 175 174 173 172 171 170 169 168 167 166 165 
+
+Class 12
+-->Sub Class 0: 163 162 159 158 
+
+Class 13
+-->Sub Class 0: 146 145 144 143 142 141 140 139 
+
+Class 14
+-->Sub Class 0: 138 133 
+
+Class 15
+-->Sub Class 0: 137 134 132 
+
+Class 16
+-->Sub Class 0: 136 90 
+
+Class 17
+-->Sub Class 0: 135 131 
+
+Class 18
+-->Sub Class 0: 130 129 127 128 
+
+Class 19
+-->Sub Class 0: 126 125 117 
+
+Class 20
+-->Sub Class 0: 124 123 116 
+
+Class 21
+-->Sub Class 0: 122 121 120 119 115 
+
+Class 22
+-->Sub Class 0: 113 103 102 
+
+Class 23
+-->Sub Class 0: 108 107 106 
+
+Class 24
+-->Sub Class 0: 104 99 98 105 
+
+Class 25
+-->Sub Class 0: 93 92 91 
+
+Class 26
+-->Sub Class 0: 88 87 149 
+
+Class 27
+-->Sub Class 0: 83 82 
+
+Class 28
+-->Sub Class 0: 78 77 71 62 89 
+
+Class 29
+-->Sub Class 0: 76 75 
+
+Class 30
+-->Sub Class 0: 73 67 66 64 63 65 
+
+Class 31
+-->Sub Class 0: 70 61 
+
+Class 32
+-->Sub Class 0: 69 68 31 74 79 80 
+
